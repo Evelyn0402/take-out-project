@@ -21,3 +21,5 @@ Taking the second week of August 2020 as an example, we analyze weekly cumulativ
 
 By platform filter, you can view the data of each platform. 
 You can as well change the date in the key revenue metrics table and marketing performance metrics table. Doing so will update the related result automatically. 
+
+Finally, we can as well modify the column name in the tables, if the new name match with one of the source data column, it will update the table automatically.
