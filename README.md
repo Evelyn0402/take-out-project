@@ -15,7 +15,7 @@ The dashboard monitors daily sales activity on the platform. The data can be fil
 
 ## Weekly report
 
-![weekly report](https://github.com/Evelyn0402/take-out-project/blob/main/img/weekly-report.png)
+![weekly report](https://github.com/Evelyn0402/take-out-project/blob/main/img/weekly-report-final.png)
 
 Taking the second week of August 2020 as an example, we analyze weekly cumulative metrics, week-to-week metrics, key revenue metrics and marketing performance metrics.
 
