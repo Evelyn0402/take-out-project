@@ -4,7 +4,7 @@
 The take-out data (desensitized) of some brands on the take-out platform,  dashboard and weekly report are used to reflect the sales.
 
 ## Dashboard 
-![dashboard](https://github.com/Evelyn0402/take-out-project/blob/main/img/dashboard.png) 
+![dashboard](https://github.com/Evelyn0402/take-out-project/blob/main/img/main-dashboard.png) 
 For daily sales monitoring dashboard, data can be filtered according to time filter, store filter(which are shown on right-up corner). The dashboard includes sales overview, sales details, order distribution map, ratio of new and regular customers...
 
 
